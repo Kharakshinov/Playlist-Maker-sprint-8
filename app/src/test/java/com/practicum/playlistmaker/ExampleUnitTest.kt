@@ -1,4 +1,4 @@
-package com.practicum.playlistmakersprint8
+package com.practicum.playlistmaker
 
 import org.junit.Test
 
